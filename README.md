@@ -81,6 +81,9 @@ Tutorials:
 
 [https://github.com/epicweb-dev/pixel-perfect-tailwind](https://github.com/epicweb-dev/pixel-perfect-tailwind)
 
+Playground:
+[https://play.tailwindcss.com/]
+
 ### Next.js
 
 Next.js is  one of the popular web frameworks for using react, it supports both client side and server side rendering and can support a wide range of use cases and simplifies the routing routing logic. We use Next.js as our primary web framework for the client side react code.
