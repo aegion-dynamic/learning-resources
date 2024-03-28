@@ -59,14 +59,31 @@ Tutorial:
 
 [https://regexone.com/](https://regexone.com/)
 
+### Docker and DevContainers
+
+Docker is the defacto standard in creating containerized software enviornments. While we do recommend everyone to install Ubuntu as the default operating system, we develop docker environments for each of the projects. Start with the following resources to get a basic understanding of docker, what it does and how to quickly check and see if docker is working.
+
+**Note:** On ubuntu, follow these instructions to install docker.
+
+Installation:
+[https://docs.docker.com/engine/install/ubuntu/#installation-methods]
+
+Tutorial:
+[https://docker-curriculum.com/]
+
+Dev Containers in vscode:
+[https://code.visualstudio.com/docs/devcontainers/tutorial]
+[https://code.visualstudio.com/docs/devcontainers/containers]
+Reference Repo - [https://github.com/0916dhkim/vscode-devcontainer-tutorial]
+
+
 ## Frontend Development:
 
 ### Typescript:
 
 Typescript is a subset of javascript initially developed by microsoft to introduce a type system and plethora of static checking capabilities to the standard javascript toolchain. Typescript reduces potential for runtime errors, improves code readability and testing requirements.
 
-Typescript + React Tutorials
-
+Typescript + React Tutorials:
 [https://handsonreact.com/docs/labs/react-tutorial-typescript](https://handsonreact.com/docs/labs/react-tutorial-typescript) 
 
 ### Tailwind CSS
