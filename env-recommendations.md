@@ -6,3 +6,4 @@
 - [docker](https://docs.docker.com/engine/install/ubuntu/)
 -  CUDA Drivers
 -  VSCode
+-  Increase the swap size on you machine to 20GB [tutorial](https://www.digitalocean.com/community/tutorials/how-to-add-swap-space-on-ubuntu-20-04)
