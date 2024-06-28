@@ -16,9 +16,9 @@ Tutorial:
 
 Github Flow:
 
-\[https://docs.github.com/en/get-started/using-github/github-flow]
+{% embed url="https://docs.github.com/en/get-started/using-github/github-flow" %}
 
-\[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests]
+{% embed url="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests" %}
 
 ### Linux:
 
@@ -36,17 +36,21 @@ In this day and age, not knowing python is the equivalent of a person with a dri
 
 **Note: There are innumerable resources online for learning python. You should be able to learn Python within a day, but if you can't then your fundamentals for writing software need work**
 
-Tutorials:
+#### Tutorials:
 
-\[https://www.coursera.org/learn/algorithmic-thinking-1] - Use this course if you're not able work in python easily.
+{% embed url="https://www.coursera.org/learn/algorithmic-thinking-1/" %}
+Use this course if you're not able work in python easily:
+{% endembed %}
 
-\[https://github.com/LinkedInLearning/algorithmic-thinking-with-python-foundations-2450259]
+{% embed url="https://github.com/LinkedInLearning/algorithmic-thinking-with-python-foundations-2450259" %}
 
-Environment Setup:
+#### Environment Setup:
 
 As an intermediate user, you will start seeing challenges in managing dependencies and various versions of python environments. Here are some tools you need to use to start managing them better.
 
-\[https://realpython.com/intro-to-pyenv/] \[https://realpython.com/dependency-management-python-poetry/]
+{% embed url="https://realpython.com/intro-to-pyenv/" %}
+
+{% embed url="https://realpython.com/dependency-management-python-poetry/" %}
 
 ### Regular Expression:
 
@@ -54,7 +58,7 @@ While learning programming languages is super important, there are certain “lo
 
 Tutorial:
 
-[https://regexone.com/](https://regexone.com/)
+{% embed url="https://regexone.com/" %}
 
 ### Docker and DevContainers
 
@@ -62,8 +66,20 @@ Docker is the defacto standard in creating containerized software enviornments. 
 
 **Note:** On ubuntu, follow these instructions to install docker.
 
-Installation: \[https://docs.docker.com/engine/install/ubuntu/#installation-methods]
+Installation:&#x20;
 
-Tutorial: \[https://docker-curriculum.com/]
+{% embed url="https://docs.docker.com/engine/install/ubuntu/#installation-methods" %}
 
-Dev Containers in vscode: \[https://code.visualstudio.com/docs/devcontainers/tutorial] \[https://code.visualstudio.com/docs/devcontainers/containers] Reference Repo - \[https://github.com/0916dhkim/vscode-devcontainer-tutorial]
+Tutorial:&#x20;
+
+{% embed url="https://docker-curriculum.com/" %}
+
+Dev Containers in vscode:
+
+{% embed url="https://code.visualstudio.com/docs/devcontainers/tutorial" %}
+
+{% embed url="https://code.visualstudio.com/docs/devcontainers/containers" %}
+
+&#x20;Reference Repo:
+
+{% embed url="https://github.com/0916dhkim/vscode-devcontainer-tutorial" %}
