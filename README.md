@@ -84,12 +84,3 @@ Dev Containers in vscode:
 
 {% embed url="https://github.com/0916dhkim/vscode-devcontainer-tutorial" %}
 
-{% embed url="https://code.visualstudio.com/docs/devcontainers/tutorial" %}
-
-{% embed url="https://code.visualstudio.com/docs/devcontainers/containers" %}
-
-\
-Reference Repo -&#x20;
-
-{% embed url="https://github.com/0916dhkim/vscode-devcontainer-tutorial" %}
-
