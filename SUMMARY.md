@@ -2,7 +2,7 @@
 
 ## Software Engineering
 
-* [Basic Code Literacy](README.md)
+* [Basic Code Literacy](software-engineering/basic-code-literacy.md)
 * [Frontend Development](software-engineering/frontend-development.md)
 * [Serverside Development](software-engineering/serverside-development.md)
 * [Communication Standards](software-engineering/communication-standards.md)
