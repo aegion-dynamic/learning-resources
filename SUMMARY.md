@@ -12,3 +12,7 @@
 * [Learning Pathway (Primary)](machine-learning/learning-pathway-primary.md)
 * [Recommended Books](machine-learning/recommended-books.md)
 * [Environment Setup](machine-learning/env-recommendations.md)
+
+## Goal Setting
+
+* [SMART Goals](goal-setting/smart-goals.md)
