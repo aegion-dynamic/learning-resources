@@ -16,3 +16,8 @@
 ## Goal Setting
 
 * [SMART Goals](goal-setting/smart-goals.md)
+
+## Electrical Engineering
+
+* [Overview](electrical-engineering/overview.md)
+* [Developing For Embedded Linux](electrical-engineering/developing-for-embedded-linux.md)
