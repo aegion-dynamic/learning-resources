@@ -9,9 +9,9 @@
 
 ## Machine Learning
 
-* [Learning Pathway (Primary)](machine-learning/learning-pathway-primary.md)
-* [Recommended Books](machine-learning/recommended-books.md)
 * [Environment Setup](machine-learning/env-recommendations.md)
+* [Recommended Books](machine-learning/recommended-books.md)
+* [Learning Pathway (Primary)](machine-learning/learning-pathway-primary.md)
 * [Data Pipeline Development](machine-learning/data-pipeline-development.md)
 
 ## Goal Setting

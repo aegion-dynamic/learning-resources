@@ -6,7 +6,7 @@ Golang was developed as a replacement for java and c++ for rewriting the bulk of
 
 Learning to write go (Tutorial):
 
-[https://quii.gitbook.io/learn-go-with-tests/](https://quii.gitbook.io/learn-go-with-tests/)
+{% embed url="https://quii.gitbook.io/learn-go-with-tests/" %}
 
 ### Pathway:
 

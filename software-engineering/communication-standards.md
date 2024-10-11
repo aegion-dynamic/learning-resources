@@ -6,7 +6,7 @@ OpenAPI was the standard that should have existed 10 years ago when developers f
 
 Tutorial:
 
-[https://posener.github.io/openapi-intro/](https://posener.github.io/openapi-intro/)
+{% embed url="https://posener.github.io/openapi-intro/" %}
 
 ## GraphQL
 
@@ -14,4 +14,4 @@ GraphQL is unique system of building API’s that allows you to treat the data a
 
 Tutorial:
 
-[https://graphql.org/learn/](https://graphql.org/learn/)
+{% embed url="https://graphql.org/learn/" %}

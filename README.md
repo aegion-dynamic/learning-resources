@@ -10,9 +10,9 @@ Git is the most popular version control system used across all of Aegion’s pro
 
 Tutorial:
 
-[https://learn.microsoft.com/en-us/training/modules/intro-to-git/](https://learn.microsoft.com/en-us/training/modules/intro-to-git/)
+{% embed url="https://learn.microsoft.com/en-us/training/modules/intro-to-git/" %}
 
-[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+{% embed url="https://learngitbranching.js.org/" %}
 
 Github Flow:
 
@@ -66,11 +66,11 @@ Docker is the defacto standard in creating containerized software enviornments. 
 
 **Note:** On ubuntu, follow these instructions to install docker.
 
-Installation:&#x20;
+Installation:
 
 {% embed url="https://docs.docker.com/engine/install/ubuntu/#installation-methods" %}
 
-Tutorial:&#x20;
+Tutorial:
 
 {% embed url="https://docker-curriculum.com/" %}
 
@@ -80,6 +80,6 @@ Dev Containers in vscode:
 
 {% embed url="https://code.visualstudio.com/docs/devcontainers/containers" %}
 
-&#x20;Reference Repo:
+Reference Repo:
 
 {% embed url="https://github.com/0916dhkim/vscode-devcontainer-tutorial" %}

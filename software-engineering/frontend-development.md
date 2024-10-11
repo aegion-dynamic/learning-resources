@@ -4,7 +4,9 @@
 
 Typescript is a subset of javascript initially developed by microsoft to introduce a type system and plethora of static checking capabilities to the standard javascript toolchain. Typescript reduces potential for runtime errors, improves code readability and testing requirements.
 
-Typescript + React Tutorials: [https://handsonreact.com/docs/labs/react-tutorial-typescript](https://handsonreact.com/docs/labs/react-tutorial-typescript)
+Typescript + React Tutorials:&#x20;
+
+{% embed url="https://handsonreact.com/docs/labs/react-tutorial-typescript" %}
 
 ### Tailwind CSS
 
@@ -12,13 +14,15 @@ Tailwind css are like building blocks for web designers to create their UI. The 
 
 Wisdom to absorb:
 
-[https://www.youtube.com/tailwindlabs](https://www.youtube.com/tailwindlabs)
+{% embed url="https://www.youtube.com/tailwindlabs" %}
 
 Tutorials:
 
-[https://github.com/epicweb-dev/pixel-perfect-tailwind](https://github.com/epicweb-dev/pixel-perfect-tailwind)
+{% embed url="https://github.com/epicweb-dev/pixel-perfect-tailwind" %}
 
-Playground: \[https://play.tailwindcss.com/]
+Playground:&#x20;
+
+{% embed url="https://play.tailwindcss.com/" %}
 
 ### Next.js
 
@@ -26,4 +30,4 @@ Next.js is one of the popular web frameworks for using react, it supports both c
 
 Tutorial:
 
-[https://www.youtube.com/watch?v=pUNSHPyVryU](https://www.youtube.com/watch?v=pUNSHPyVryU)
+{% embed url="https://www.youtube.com/watch?v=pUNSHPyVryU" %}
