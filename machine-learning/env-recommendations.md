@@ -13,3 +13,7 @@
 ## Don't
 
 At Aegion, we don't use `anaconda`. While `anaconda` is a very popular package management system, in order to ensure that all our projects have the the most detailed dependency trees, we recommend the learner to familiarize themselves with `poetry` to ensure that all the dependencies are captured accurately with precise versioning and environment constraints. This is critical as we move prototypes to production.
+
+Check out the following tutorial to get familiar with `poetry`:
+
+{% embed url="https://realpython.com/dependency-management-python-poetry/" %}

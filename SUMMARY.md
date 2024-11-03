@@ -11,6 +11,7 @@
 
 * [Environment Setup](machine-learning/env-recommendations.md)
 * [Recommended Books](machine-learning/recommended-books.md)
+* [The Bare Minimum](machine-learning/the-bare-minimum.md)
 * [Learning Pathway (Primary)](machine-learning/learning-pathway-primary.md)
 * [Data Pipeline Development](machine-learning/data-pipeline-development.md)
 
