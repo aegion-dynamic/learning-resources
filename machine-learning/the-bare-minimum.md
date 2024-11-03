@@ -43,13 +43,15 @@ Optimizers are at the heart of all machine learning techniques, having a utilita
 
 TBA: More relevant ML optimizers material.&#x20;
 
-## 7. ??? in Deep Learning
+## 7. Fluent in Neural Networks
 
 Building neural networks is very easy today so being fluent PyTorch or Tensorflow (Aegion only sticks to Pytorch). Being fluent in the library would take you a long way. Take a look at these series that gets you from 0 -> 0.1.
 
 {% embed url="https://www.youtube.com/watch?v=-VTo5Z_q5po&list=PLN8j_qfCJpNhhY26TQpXC5VeK-_q3YLPa&pp=iAQB" %}
 
+Start studying neural networks for discriminative deep learning, including ANNs, CNNs, RNNs, and other networks for sequence data processing, then follow this up by learning generative deep learning, including GANs, VAEs, and Transformers.
 
+TBA: Key realizations, editorial on how to approach different classes of neural networks, utilizing formalism and learning to formalize.
 
 
 
