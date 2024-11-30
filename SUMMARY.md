@@ -15,9 +15,10 @@
 * [Learning Pathway (Primary)](machine-learning/learning-pathway-primary.md)
 * [Data Pipeline Development](machine-learning/data-pipeline-development.md)
 
-## Goal Setting
+## Career Development
 
-* [SMART Goals](goal-setting/smart-goals.md)
+* [Writing a Good Resume](career-development/writing-a-good-resume.md)
+* [SMART Goals](career-development/smart-goals.md)
 
 ## Electrical Engineering
 
