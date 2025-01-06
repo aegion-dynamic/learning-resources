@@ -24,3 +24,7 @@
 
 * [Overview](electrical-engineering/overview.md)
 * [Developing For Embedded Linux](electrical-engineering/developing-for-embedded-linux.md)
+
+## Hardware Design
+
+* [Designing Physical Objects](hardware-design/designing-physical-objects.md)
