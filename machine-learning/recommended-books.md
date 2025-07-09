@@ -5,5 +5,6 @@ While countless resources exist to learn machine learning. Its important for lea
 1. An Introduction to Statistical Learning ([https://www.statlearning.com/](https://www.statlearning.com/))
 2. Probabilistic Machine Learning ([https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html))
 3. Dive into Deep Learning ([https://d2l.ai/](https://d2l.ai/))
-4. Bayesian Reasoning and Machine Learning ([link](https://github.com/snowdj/CS228\_PGM/blob/master/books/Bayesian%20Reasoning%20and%20Machine%20Learning%20by%20David%20Barber.pdf))
+4. Bayesian Reasoning and Machine Learning ([link](https://github.com/snowdj/CS228_PGM/blob/master/books/Bayesian%20Reasoning%20and%20Machine%20Learning%20by%20David%20Barber.pdf))
 5. Reinforcement Learning - An Introduction ([https://mitpress.mit.edu/9780262039246/reinforcement-learning/](https://mitpress.mit.edu/9780262039246/reinforcement-learning/))
+6. Mathematics for Machine Learning ([https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf))

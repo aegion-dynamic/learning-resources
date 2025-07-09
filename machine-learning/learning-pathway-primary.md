@@ -10,9 +10,9 @@ As one learns the various techniques and continuously applies their knowledge to
 
 ## Pathway
 
-The learning pathway we recommend has two tracks, and forces the learner to pursue these two tracks in parallel in addition to picking up practice projects (will fill this out shortly).
+The learning pathway we recommend has three pillars of effort, and forces the learner to pursue these two tracks in parallel in addition to picking up practice projects (will be updating this).
 
-<table><thead><tr><th width="94">Week</th><th>Track 1</th><th>Track 2</th></tr></thead><tbody><tr><td>1</td><td></td><td></td></tr><tr><td>2</td><td></td><td></td></tr><tr><td>3</td><td></td><td></td></tr><tr><td>4</td><td></td><td></td></tr><tr><td>5</td><td></td><td></td></tr><tr><td>6</td><td></td><td></td></tr><tr><td>7</td><td></td><td></td></tr><tr><td>8</td><td></td><td></td></tr><tr><td>9</td><td></td><td></td></tr><tr><td>10</td><td></td><td></td></tr><tr><td>11</td><td></td><td></td></tr><tr><td>12</td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="86.5">Week</th><th>Effort 1 - Math</th><th>Effort 2 - Practical Projects</th><th>Effort 3 - ML/DL</th></tr></thead><tbody><tr><td>1</td><td>Work through the chapters of MML</td><td>Learn to work with Scipy and start implementing basic ML techniques</td><td>Work through the Chapters of ISL </td></tr><tr><td>2</td><td></td><td></td><td></td></tr><tr><td>3</td><td></td><td></td><td></td></tr><tr><td>4</td><td></td><td></td><td></td></tr><tr><td>5</td><td></td><td></td><td></td></tr><tr><td>6</td><td></td><td></td><td></td></tr><tr><td>7</td><td></td><td></td><td></td></tr><tr><td>8</td><td></td><td>Learn to build NN using Pytorch (Bare Minimum Playlist)</td><td></td></tr><tr><td>9</td><td></td><td></td><td></td></tr><tr><td>10</td><td></td><td></td><td></td></tr><tr><td>11</td><td></td><td></td><td></td></tr><tr><td>12</td><td></td><td></td><td></td></tr></tbody></table>
 
-
+When you start working through the textbooks, make sure you attempt to do all the problems at the end of the chapters. This is going to be critical for bridging your knowledge in the domain. The way to learn is going to be through grit and relentless effort.
 
