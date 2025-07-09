@@ -8,7 +8,13 @@ At Aegion, we use Fusion 360 as one of the preferred tools for its versatility a
 
 The ability to create sketches, extruding the designs is the core of how one realizes 3D objects
 
-TBA
+{% embed url="https://www.youtube.com/playlist?list=PLrZ2zKOtC_-C4rWfapgngoe9o2-ng8ZBr" %}
+
+You need to develop the discipline of using parametric design and making sure that all your design are constraint driven using parameters wherever you can. This tutorial will only teach you about making finger-joints (something we use quite a bit when making laser cut enclosures, but also drill the use of parameters into you).
+
+
+
+{% embed url="https://www.youtube.com/watch?v=9U2JPfkQpsE&t=708s" %}
 
 ## Creating Forms
 
@@ -42,8 +48,5 @@ The following tutorial will give you an idea on how to model 3d printed enclosur
 
 {% embed url="https://www.youtube.com/watch?v=r2JtSLt809Q&t=1242s" %}
 
-You need to develop the discipline of using parametric design and making sure that all your design are constraint driven using parameters wherever you can. This tutorial will only teach you about making finger-joints (something we use quite a bit when making laser cut enclosures, but also drill the use of parameters into you).
 
 
-
-{% embed url="https://www.youtube.com/watch?v=9U2JPfkQpsE&t=708s" %}
