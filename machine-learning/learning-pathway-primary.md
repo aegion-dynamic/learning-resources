@@ -3,6 +3,8 @@
 ## A note to learners
 
 > The best ML scientists are the ones who can ask the best questions
+>
+> — Krishna
 
 Machine Learning is an empirical science. What this means is that because there are no formal definitions / understanding of the mathematics behind the field and its to impossible to obtain a mechanistic understanding of the field. As with any other empirical field, expertise and intuition can be developed by learning the various methods and continuously iterating through Hypothesis-Experiment cycles.&#x20;
 
