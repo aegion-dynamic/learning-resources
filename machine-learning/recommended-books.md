@@ -8,3 +8,4 @@ While countless resources exist to learn machine learning. Its important for lea
 4. Bayesian Reasoning and Machine Learning ([link](https://github.com/snowdj/CS228_PGM/blob/master/books/Bayesian%20Reasoning%20and%20Machine%20Learning%20by%20David%20Barber.pdf))
 5. Reinforcement Learning - An Introduction ([https://mitpress.mit.edu/9780262039246/reinforcement-learning/](https://mitpress.mit.edu/9780262039246/reinforcement-learning/))
 6. Mathematics for Machine Learning ([https://mml-book.github.io/book/mml-book.pdf](https://mml-book.github.io/book/mml-book.pdf))
+7. Pattern Recognition and Machine Learning ([https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf))
