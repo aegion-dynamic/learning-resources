@@ -23,11 +23,11 @@
 ## Electrical Engineering
 
 * [Overview](electrical-engineering/overview.md)
-* [Developing For Embedded Linux](electrical-engineering/developing-for-embedded-linux.md)
-
-***
-
-* [PCB Designing Fundamentals](pcb-designing-fundamentals.md)
+* [PCB Design](electrical-engineering/pcb-design/README.md)
+  * [PCB Designing Fundamentals](electrical-engineering/pcb-design/pcb-designing-fundamentals.md)
+  * [EMC/EMI](electrical-engineering/pcb-design/emc-emi.md)
+* [Embedded Software Development](electrical-engineering/embedded-software-development/README.md)
+  * [Developing For Embedded Linux](electrical-engineering/embedded-software-development/developing-for-embedded-linux.md)
 
 ## Hardware Design
 
