@@ -6,6 +6,9 @@
 * [Frontend Development](software-engineering/frontend-development.md)
 * [Serverside Development](software-engineering/serverside-development.md)
 * [Communication Standards](software-engineering/communication-standards.md)
+* [Coding Standards](software-engineering/coding-standards/README.md)
+  * [UI Development](software-engineering/coding-standards/ui-development.md)
+  * [System Development](software-engineering/coding-standards/system-development.md)
 
 ## Machine Learning
 
